@@ -1,0 +1,10 @@
+require("dotenv").config();
+const Discord = require("discord.js");
+const client = require("../bot.js");
+const emojis = require("../utils/emojis.js");
+
+client.on("", async () => {
+
+    // CODE HERE
+
+})
